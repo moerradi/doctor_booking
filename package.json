@@ -1,0 +1,24 @@
+{
+  "name": "doctor_booking",
+  "version": "1.0.0",
+  "description": "A doctor appointment booking webapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moerradi/doctor_booking.git"
+  },
+  "author": "Moe Erradi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moerradi/doctor_booking/issues"
+  },
+  "homepage": "https://github.com/moerradi/doctor_booking#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  }
+}
